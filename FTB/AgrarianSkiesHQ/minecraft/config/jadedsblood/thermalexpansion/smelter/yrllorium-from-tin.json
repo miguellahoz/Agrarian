@@ -1,0 +1,19 @@
+{
+    "energyCost": 3200,
+    "primaryInput": {
+        "id": 20264,
+        "meta": 128,
+        "count": 1
+    },
+    "secondaryInput": {
+        "id": 20264,
+        "meta": 33,
+        "count": 3
+    },
+    "primaryOutput": {
+        "id": 30137,
+        "meta": 4,
+        "count": 1
+	}	
+   
+}

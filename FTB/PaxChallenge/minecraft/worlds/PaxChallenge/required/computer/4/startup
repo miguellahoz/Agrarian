@@ -1,0 +1,12 @@
+while (turtle.getItemCount(1) == 1
+    or turtle.getItemCount(2) == 1)
+    and turtle.getItemCount(4) == 1 do
+  os.sleep(1)
+end
+os.loadAPI("utils")
+turtle.select(1)
+utils.exec("HFFFLFHFLHLLHGUHLLHGUHLLHRDDFFLBBB")
+turtle.select(3)
+turtle.place()
+turtle.select(1)
+redstone.setOutput("right", true)

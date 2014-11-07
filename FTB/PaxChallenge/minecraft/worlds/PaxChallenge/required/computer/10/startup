@@ -1,0 +1,17 @@
+rednet.open("left")
+r=peripheral.wrap("right")
+function doShow()
+ for i=1,64 do
+  r.launch(4,1)
+  sleep(math.random(0,1))
+  r.launch(4,2)
+  sleep(math.random(0,1))
+  r.launch(4,3)
+  sleep(math.random(0,1))
+ end
+end
+id, message = rednet.receive()
+if message == "doShow" then
+ print("Starting show.")
+ doShow()
+end

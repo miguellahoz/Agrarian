@@ -1,0 +1,7 @@
+4 door
+5 master
+9 compRight
+10 compLeft
+11 compBack
+12 compRight
+13 compLeft

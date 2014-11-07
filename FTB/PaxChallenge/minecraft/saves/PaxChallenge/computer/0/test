@@ -1,0 +1,7 @@
+os.loadAPI("ocs/apis/sensor")
+s = sensor.wrap("left")
+players = s.getTargets()
+for k,v in pairs(players) do
+  term.write(k.." ")
+  print(v)
+end

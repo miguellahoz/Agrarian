@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444350</millis>
+  <sequence>1250</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initLoader</method>
+  <thread>21</thread>
+  <message>LiteLoader 1.4.7 starting up...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444353</millis>
+  <sequence>1252</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initLoader</method>
+  <thread>21</thread>
+  <message>Java reports OS="windows 7"</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444356</millis>
+  <sequence>1254</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Mods folder found, searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\mods</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444375</millis>
+  <sequence>1256</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Found 1 mod file(s)</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444377</millis>
+  <sequence>1258</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Enumerating class path...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444379</millis>
+  <sequence>1260</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Class path separator=";"</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444381</millis>
+  <sequence>1262</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Class path entries=(
+   classpathEntry=
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\ftb\legacylaunch\FTBLegacyLaunch\0.0.1\FTBLegacyLaunch-0.0.1.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\minecraft\launchwrapper\1.5\launchwrapper-1.5.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\ow2\asm\asm-all\4.1\asm-all-4.1.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.1\lwjgl-platform-2.9.1.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\instMods\MinecraftForge.zipC:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\bin\minecraft.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\argo-2.25.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\asm-all-4.0.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\bcprov-jdk15on-147.jar
+   classpathEntry=C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\guava-12.0.1.jar
+)</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444389</millis>
+  <sequence>1264</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Discovering mods on class path...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444391</millis>
+  <sequence>1266</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching protection domain code source...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444437</millis>
+  <sequence>1268</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching ...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444439</millis>
+  <sequence>1270</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\ftb\legacylaunch\FTBLegacyLaunch\0.0.1\FTBLegacyLaunch-0.0.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444454</millis>
+  <sequence>1272</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\minecraft\launchwrapper\1.5\launchwrapper-1.5.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444459</millis>
+  <sequence>1274</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444469</millis>
+  <sequence>1276</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\ow2\asm\asm-all\4.1\asm-all-4.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444516</millis>
+  <sequence>1278</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444555</millis>
+  <sequence>1280</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444559</millis>
+  <sequence>1282</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444664</millis>
+  <sequence>1284</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444708</millis>
+  <sequence>1286</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\org\lwjgl\lwjgl\lwjgl-platform\2.9.1\lwjgl-platform-2.9.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444710</millis>
+  <sequence>1288</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444723</millis>
+  <sequence>1290</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\libraries\net\java\jinput\jinput-platform\2.0.5\jinput-platform-2.0.5.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444725</millis>
+  <sequence>1292</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\instMods\MinecraftForge.zipC:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\bin\minecraft.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444728</millis>
+  <sequence>1294</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\argo-2.25.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444742</millis>
+  <sequence>1296</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\asm-all-4.0.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:24</date>
+  <millis>1413456444759</millis>
+  <sequence>1298</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\bcprov-jdk15on-147.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445031</millis>
+  <sequence>1300</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\lib\guava-12.0.1.jar...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445177</millis>
+  <sequence>1302</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Searching C:\Users\M.Jose\Desktop\Juegos\FTB\PaxChallenge\minecraft\mods\mod_deepspaceturtlechase_sms_1.4.7_02_forge.litemod...</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445199</millis>
+  <sequence>1304</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>21</thread>
+  <message>Found 1 potential matches</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445201</millis>
+  <sequence>1306</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>21</thread>
+  <message>Mod class discovery completed</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445203</millis>
+  <sequence>1308</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>21</thread>
+  <message>Discovered 1 total mod(s)</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445212</millis>
+  <sequence>1310</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>21</thread>
+  <message>Loading mod from com.thevoxelbox.dstc.LiteModDeepSpaceTurtleChase</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445218</millis>
+  <sequence>1312</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>21</thread>
+  <message>Successfully added mod Deep Space Turtle Chase version So Much Space Edition</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445219</millis>
+  <sequence>1314</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initMods</method>
+  <thread>21</thread>
+  <message>Initialising mod Deep Space Turtle Chase version So Much Space Edition</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:25</date>
+  <millis>1413456445384</millis>
+  <sequence>1316</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.HookProfiler</class>
+  <method>DetectOptifine</method>
+  <thread>21</thread>
+  <message>Optifine not detected</message>
+</record>
+<record>
+  <date>2014-10-16T12:47:49</date>
+  <millis>1413456469054</millis>
+  <sequence>2724</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>onInit</method>
+  <thread>21</thread>
+  <message>Calling late init for mod Deep Space Turtle Chase</message>
+</record>
+</log>

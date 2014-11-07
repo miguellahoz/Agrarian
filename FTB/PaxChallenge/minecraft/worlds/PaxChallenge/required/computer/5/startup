@@ -1,0 +1,30 @@
+rednet.open("top")
+local id, name, distance = rednet.receive()
+rednet.close("top")
+print("Welcome "..name)
+function time()
+  return os.day() * 24000 + os.time() * 1000
+end
+
+function post(name, time, score)
+  http.get("http://108.49.77.202:21588/"..name..
+  "/"..time.."/"..score)
+end
+local start = time()
+local score = redstone.getBundledInput("left")
+post(name, time()-start, score)
+while score ~= 31 do
+  print("Waiting for change")
+  os.pullEvent("redstone")
+  print("Got a rs change")
+  score = redstone.getBundledInput("left")
+  print(score)
+  print(time()-start)
+  post(name,time()-start, score)
+  print("posted score")
+end
+redstone.setOutput("bottom", true)
+rednet.open("top")
+rednet.broadcast("doShow")
+
+

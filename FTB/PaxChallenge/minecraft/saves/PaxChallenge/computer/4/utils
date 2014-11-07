@@ -1,0 +1,22 @@
+local tHandlers = {
+  ["B"] = turtle.back,
+  ["D"] = turtle.down,
+  ["F"] = turtle.forward,
+  ["G"] = turtle.digUp,
+  ["H"] = turtle.dig,
+  ["I"] = turtle.digDown,
+  ["L"] = turtle.turnLeft,
+  ["O"] = turtle.placeUp,
+  ["P"] = turtle.place,
+  ["Q"] = turtle.placeDown,
+  ["R"] = turtle.turnRight,
+  ["U"] = turtle.up
+}
+ 
+function exec(command)
+  if type(command) ~= "string" then return end
+  for i = 1, #command do
+    local cmd = tHandlers[command:sub(i,i)]
+    if cmd then cmd() end
+  end
+end

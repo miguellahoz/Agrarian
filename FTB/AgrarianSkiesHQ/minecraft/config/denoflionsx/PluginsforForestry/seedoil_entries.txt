@@ -1,0 +1,5 @@
+# Title:Seedoil Module
+# Author: Jadedcat
+# Type: seedoil
+# Amount: 100
+listAllseed
