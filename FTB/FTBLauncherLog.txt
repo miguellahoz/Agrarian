@@ -1,168 +1,169 @@
 C:\Users\M.Jose\Desktop\Juegos\Agrarian\FTB\FTBLauncherLog.txt: written by FTB Launcher
-[00:38:40] [DEBUG] LaunchFrame.main:219: FTB Launcher CI Build #: 203, Git SHA: 9b3092c84c648524d65019efecfa000588d7773e
-[00:38:41] [INFO] JGoogleAnalyticsTracker$2.run:484: AnalyticsBackgroundThread started
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:33: FTBLaunch starting up (version 1.4.3 Build: 10403)
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:34: Java version: 1.7.0_51
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:35: Java vendor: Oracle Corporation
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:36: Java home: C:\Program Files\Java\jre7
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:37: Java specification: Java Virtual Machine Specification version: 1.7 by Oracle Corporation
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:39: Java vm: Java HotSpot(TM) 64-Bit Server VM version: 24.51-b03 by Oracle Corporation
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:40: OS: Windows 7 6.1 (64-bit)
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:41: Launcher Install Dir: C:\Users\M.Jose\Desktop\Juegos\Agrarian\FTB
-[00:38:41] [INFO] LaunchFrameHelpers.printInfo:42: System memory: 2080M free, 3999M total
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:166: The FTB Launcher has found the following Java versions installed:
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 32 Bit Java at : C:\Program Files (x86)\Java\jre7\bin\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jdk1.7.0_51\bin\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 64 Bit Java at : C:\Program Files\Java\jdk1.7.0_45\bin\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Windows\system32\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 32 Bit Java at : C:\Windows\SysWOW64\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
-[00:38:49] [INFO] JavaFinder.parseJavaVersion:194: Preferred: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
-[00:38:50] [INFO] DownloadUtils.run:427: DownloadUtils.run() starting
-[00:38:51] [DEBUG] DownloadUtils.run:447: Balance Settings: 0.75 > 0.5646702072774573
-[00:38:51] [INFO] DownloadUtils.run:449: Balance has selected Automatic:CurseCDN
-[00:38:51] [DEBUG] Benchmark.logBenchAs:71: Download Utils Bal took 958 ms.
-[00:38:51] [DEBUG] Benchmark.logBenchAs:71: Download Utils CH took 1327 ms.
-[00:38:51] [DEBUG] Benchmark.logBenchAs:71: Download Utils Curse took 1497 ms.
-[00:38:51] [INFO] DownloadUtils.run:507: DL ready
-[00:38:51] [INFO] DownloadUtils.run:539: Using download server Automatic:CurseCDN on host ftb.cursecdn.com (198.41.209.103)
-[00:38:51] [DEBUG] Benchmark.logBenchAs:71: Download Utils Init took 1672 ms.
-[00:38:52] [INFO] I18N.addFiles:91: [i18n] Fallback enUS loaded
-[00:38:52] [INFO] I18N.setLocale:114: [i18n] esES Cargado el idioma Español!
-[00:38:53] [DEBUG] OSUtils.getMacAddress:343: Interface: NIC de Fast Ethernet PCI-E de la familia Realtek RTL8102E/RTL8103E (NDIS 6.20) : eth3
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 0 enUS to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 1 cyGB to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 2 daDK to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 3 deDE to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 4 enUS to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 5 enGB to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 6 esES to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 7 fiFI to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 8 frFR to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 9 itIT to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 10 nlNL to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 11 noNO to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 12 maHU to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 13 ptBR to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 14 ptPT to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 15 ruRU to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 17 zhCN to options pane
-[00:38:56] [INFO] OptionsPane.<init>:153: [i18n] Added 16 svSE to options pane
-[00:38:57] [INFO] I18N.setLocale:114: [i18n] esES Cargado el idioma Español!
-[00:38:57] [DEBUG] Benchmark.logBenchAs:71: UnreadNews Init took 449 ms.
-[00:38:58] [DEBUG] AuthlibDLWorker.doInBackground:57: Loading Authlib...
-[00:38:58] [DEBUG] UpdateChecker.<init>:70: Launcher Install path: C:\Users\M.Jose\Desktop\Juegos\launcher^FTB_Launcher.exe
-[00:38:59] [INFO] ModpackLoader.run:70: Loading modpack information for modpacks.xml...
-[00:38:59] [INFO] AuthlibDLWorker.downloadJars:132: Local Authlib Version is good, skipping Download
-[00:38:59] [INFO] AuthlibDLWorker.doInBackground:67: Adding Authlib to Classpath
-[00:39:00] [DEBUG] UpdateChecker.shouldUpdate:131: updater: buildjenk 203 < betajenk 273|| version 10403 < 10405
-[00:39:00] [DEBUG] UpdateChecker.shouldUpdate:132: latest = 10403
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 1 (Direwolf20)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 2 (Monster)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 3 (Direwolf20)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 4 (Alpha FTBLite 3)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 5 (Alpha FTB Mage Quest)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 6 (Horizons)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 7 (Tech World 2)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 8 (Magic World 2)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 9 (FTBLite2)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 10 (FTB Unleashed)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 11 (FTB Ultimate)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 12 (Unstable 1.7.x (Public Beta Test Pack))
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 13 (FTB Lite)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 14 (Direwolf20 1.5 v2)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 15 (Direwolf20 Pack)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 16 (MindCrack Pack)
-[00:39:00] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 17 (YogCraft Modpack)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 18 (FTB Unhinged)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 19 (Magic World)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 20 (Tech World)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 21 (Pax Prime 2014 Map)
-[00:39:01] [INFO] ModpackLoader.run:70: Loading modpack information for thirdparty.xml...
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 22 (Pax East 2014 Map)
-[00:39:01] [DEBUG] Benchmark.logBenchAs:71: Authlib DL Worker Init took 3177 ms.
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 23 (Pax Challenge Pack 2013)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 24 (Feed The Beast Retro SSP)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 25 (Feed The Beast Retro SMP)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 26 (Slow's Stream Pack)
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 27 (Feed The Beast Beta Pack A)
-[00:39:01] [DEBUG] ModpackLoader.run:139: All packlists loaded
-[00:39:01] [DEBUG] Benchmark.logBenchAs:71: Modpack Loader Init took 3383 ms.
-[00:39:01] [INFO] MapLoader.run:46: loading map information...
-[00:39:01] [INFO] TexturePackLoader.run:46: loading texture pack information...
-[00:39:01] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 1 (Crash Landing)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 2 (Agrarian Skies: Hardcore Quest)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 3 (Material Energy^3)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 4 (Test Pack Please Ignore)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 5 (Running Red)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 6 (EPiCCRAFT)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 7 (BloodNBones)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 8 (Magic Farm 2:Adventures in Technology)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 9 (Vanilla Minecraft)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 10 (Lapito's Galacticraft Modpack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 11 (Infamy - Dynamic Warfare)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 12 (Voxel)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 13 (New World Mod Pack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 14 (RPG Immersion Pack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 15 (BronyModPack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 16 (Ampz Modpack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 17 (VoxelModPack)
-[00:39:02] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 18 (Magic Farm)
-[00:39:02] [INFO] TexturepackPane$6.run:257: Adding texture pack 1 (Soartex Fanver)
-[00:39:02] [INFO] MapUtils$6.run:266: Adding map 1 (Agrarian Skies Default Map)
-[00:39:02] [DEBUG] Benchmark.logBenchAs:71: Texture Pack Load  took 952 ms.
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 2 (Agrarian Skies Flat Map)
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 2 (Jadedcat Mixpack)
-[00:39:03] [DEBUG] Benchmark.logBenchAs:71: MapLoader run  took 1183 ms.
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 3 (Invictus)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 3 (Agrarian Skies Server Map)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 4 (Direwolf20 Map Ep.0)
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 4 (Faithful)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 5 (FTB Pax Challenge)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 6 (Direwolf20 Map Ep.0)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 7 (Direwolf20 Map Ep.10)
-[00:39:03] [INFO] MapUtils$6.run:266: Adding map 8 (Direwolf20 Map Ep.20)
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 5 (JohnSmith Technicians Remix)
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 6 (Familiar yet Different)
-[00:39:03] [INFO] TexturepackPane$6.run:257: Adding texture pack 7 (Love And Tolerance)
-[00:39:04] [DEBUG] Benchmark.logBenchAs:71: Launcher Startup took 23205 ms.
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 9 (Direwolf20 Map Ep.30)
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 10 (Direwolf20 Map Ep.40)
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 11 (Direwolf20 Map Ep.50)
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 12 (Direwolf20 Map Ep.80)
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 13 (FTB Normal)
-[00:39:04] [INFO] MapUtils$6.run:266: Adding map 14 (FTB Insanity)
-[00:39:04] [DEBUG] Benchmark.logBenchAs:71: Launcher Startup took 23337 ms.
-[00:39:22] [INFO] LaunchFrame.doLogin:719: Logging in...
-[00:39:22] [INFO] AuthlibHelper.authenticateWithAuthlib:60: Beginning authlib authentication attempt
-[00:39:22] [INFO] AuthlibHelper.authenticateWithAuthlib:61: successfully created YggdrasilAuthenticationService
-[00:39:22] [DEBUG] AuthlibHelper.authenticateWithAuthlib:76: mojangData is null or empty
-[00:39:23] [DEBUG] AuthlibHelper.authenticateWithAuthlib:120: Authentication is valid 
-[00:39:23] [DEBUG] AuthlibHelper.authenticateWithAuthlib:123: loggedIn() && CanPlayOnline()
-[00:39:23] [DEBUG] AuthlibHelper.authenticateWithAuthlib:127: Authentication done, returning LoginResponse
-[00:39:23] [DEBUG] Benchmark.logBenchAs:71: Login Worker Run took 937 ms.
-[00:39:23] [DEBUG] LaunchFrame$15.done:761: responseStr: good
-[00:39:23] [INFO] LaunchFrame$15.done:764: Login complete.
-[00:39:23] [DEBUG] User.writeObject:168: starting...
-[00:39:23] [DEBUG] LaunchFrame$15.done:768: user data saved
-[00:39:23] [DEBUG] LaunchFrame.runGameUpdater:812: ForceUpdate: false
-[00:39:23] [DEBUG] LaunchFrame.runGameUpdater:813: installPath: C:\Users\M.Jose\Desktop\Juegos\Agrarian\FTB
-[00:39:23] [DEBUG] LaunchFrame.runGameUpdater:814: pack dir: AgrarianSkiesHQ
-[00:39:23] [DEBUG] LaunchFrame.runGameUpdater:815: pack check path: AgrarianSkiesHQ\version
-[00:39:23] [INFO] MCInstaller.gatherAssets:116: Checking local assets file, for MC version1.6.4 Please wait! 
-[00:39:23] [DEBUG] MCInstaller.gatherAssets:133: Checking minecraft.jar
-[00:39:24] [DEBUG] MCInstaller.gatherAssets:146: checking minecraft libraries
-[00:39:24] [DEBUG] MCInstaller.gatherAssets:167: Checking pack libararies
-[00:39:24] [DEBUG] MCInstaller.gatherAssets:230: Checking minecraft assets
-[00:39:25] [DEBUG] MCInstaller.gatherAssets:245: Starting TaskHandler to check MC assets
-[00:39:36] [DEBUG] Benchmark.logBenchAs:71: parallel asset check took 11173 ms.
-[00:39:36] [INFO] MCInstaller.launchMinecraft:293: Setting up native libraries for Agrarian Skies: Hardcore Quest v Recommended Version MC 1.6.4
-[00:39:37] [INFO] MCLauncher.syncAssets:257: Syncing Assets:
-[00:39:54] [DEBUG] Benchmark.logBenchAs:71: parallel asset(virtual) check took 16037 ms.
-[00:39:54] [INFO] MCLauncher.launchMinecraft:80: Java Path: C:\Program Files\Java\jre7\bin\javaw.exe
-[00:39:54] [INFO] MCLauncher.launchMinecraft:81: Pack: Agrarian Skies: Hardcore Quest 1.6.4
-[00:39:54] [INFO] MCLauncher.setMemory:240: Setting MinMemory to 256
-[00:39:54] [INFO] MCLauncher.setMemory:242: Setting MaxMemory to 1536
-[00:39:54] [INFO] MCLauncher.launchMinecraft:103: Defaulting PermSize to 256m
-[00:39:56] [DEBUG] Benchmark.logBenchAs:71: UnreadNews Init took 357 ms.
+[19:00:50] [DEBUG] LaunchFrame.main:219: FTB Launcher CI Build #: 203, Git SHA: 9b3092c84c648524d65019efecfa000588d7773e
+[19:00:50] [INFO] JGoogleAnalyticsTracker$2.run:484: AnalyticsBackgroundThread started
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:33: FTBLaunch starting up (version 1.4.3 Build: 10403)
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:34: Java version: 1.7.0_51
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:35: Java vendor: Oracle Corporation
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:36: Java home: C:\Program Files\Java\jre7
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:37: Java specification: Java Virtual Machine Specification version: 1.7 by Oracle Corporation
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:39: Java vm: Java HotSpot(TM) 64-Bit Server VM version: 24.51-b03 by Oracle Corporation
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:40: OS: Windows 7 6.1 (64-bit)
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:41: Launcher Install Dir: C:\Users\M.Jose\Desktop\Juegos\Agrarian\FTB
+[19:00:50] [INFO] LaunchFrameHelpers.printInfo:42: System memory: 2036M free, 3999M total
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:166: The FTB Launcher has found the following Java versions installed:
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 32 Bit Java at : C:\Program Files (x86)\Java\jre7\bin\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jdk1.7.0_51\bin\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 64 Bit Java at : C:\Program Files\Java\jdk1.7.0_45\bin\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Windows\system32\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_45 sorted as: 1.7.0_45 32 Bit Java at : C:\Windows\SysWOW64\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:168: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
+[19:00:57] [INFO] JavaFinder.parseJavaVersion:194: Preferred: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jre7\bin\java.exe
+[19:00:58] [INFO] DownloadUtils.run:427: DownloadUtils.run() starting
+[19:00:58] [DEBUG] DownloadUtils.run:447: Balance Settings: 0.75 > 0.6966811372379804
+[19:00:58] [INFO] DownloadUtils.run:449: Balance has selected Automatic:CurseCDN
+[19:00:58] [DEBUG] Benchmark.logBenchAs:71: Download Utils Bal took 468 ms.
+[19:00:58] [DEBUG] Benchmark.logBenchAs:71: Download Utils CH took 656 ms.
+[19:00:58] [DEBUG] Benchmark.logBenchAs:71: Download Utils Curse took 843 ms.
+[19:00:58] [INFO] DownloadUtils.run:507: DL ready
+[19:00:59] [INFO] DownloadUtils.run:539: Using download server Automatic:CurseCDN on host ftb.cursecdn.com (198.41.208.102)
+[19:00:59] [DEBUG] Benchmark.logBenchAs:71: Download Utils Init took 1108 ms.
+[19:00:59] [INFO] I18N.addFiles:91: [i18n] Fallback enUS loaded
+[19:00:59] [INFO] I18N.setLocale:114: [i18n] esES Cargado el idioma Español!
+[19:01:00] [DEBUG] OSUtils.getMacAddress:343: Interface: NIC de Fast Ethernet PCI-E de la familia Realtek RTL8102E/RTL8103E (NDIS 6.20) : eth3
+[19:01:02] [INFO] LaunchFrameHelpers.googleAnalytics:147: Reporting daily use
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 0 enUS to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 1 cyGB to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 2 daDK to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 3 deDE to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 4 enUS to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 5 enGB to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 6 esES to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 7 fiFI to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 8 frFR to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 9 itIT to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 10 nlNL to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 11 noNO to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 12 maHU to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 13 ptBR to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 14 ptPT to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 15 ruRU to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 17 zhCN to options pane
+[19:01:03] [INFO] OptionsPane.<init>:153: [i18n] Added 16 svSE to options pane
+[19:01:03] [INFO] I18N.setLocale:114: [i18n] esES Cargado el idioma Español!
+[19:01:03] [DEBUG] Benchmark.logBenchAs:71: UnreadNews Init took 499 ms.
+[19:01:03] [DEBUG] AuthlibDLWorker.doInBackground:57: Loading Authlib...
+[19:01:04] [DEBUG] UpdateChecker.<init>:70: Launcher Install path: C:\Users\M.Jose\Desktop\Juegos\launcher^FTB_Launcher.exe
+[19:01:05] [INFO] ModpackLoader.run:70: Loading modpack information for modpacks.xml...
+[19:01:05] [DEBUG] UpdateChecker.shouldUpdate:131: updater: buildjenk 203 < betajenk 273|| version 10403 < 10405
+[19:01:05] [DEBUG] UpdateChecker.shouldUpdate:132: latest = 10403
+[19:01:05] [INFO] AuthlibDLWorker.downloadJars:132: Local Authlib Version is good, skipping Download
+[19:01:05] [INFO] AuthlibDLWorker.doInBackground:67: Adding Authlib to Classpath
+[19:01:06] [DEBUG] Benchmark.logBenchAs:71: Authlib DL Worker Init took 2746 ms.
+[19:01:07] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 1 (Direwolf20)
+[19:01:07] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 2 (Monster)
+[19:01:07] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 3 (Direwolf20)
+[19:01:07] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 4 (Alpha FTBLite 3)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 5 (Alpha FTB Mage Quest)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 6 (Horizons)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 7 (Tech World 2)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 8 (Magic World 2)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 9 (FTBLite2)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 10 (FTB Unleashed)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 11 (FTB Ultimate)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 12 (Unstable 1.7.x (Public Beta Test Pack))
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 13 (FTB Lite)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 14 (Direwolf20 1.5 v2)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 15 (Direwolf20 Pack)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 16 (MindCrack Pack)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 17 (YogCraft Modpack)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 18 (FTB Unhinged)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 19 (Magic World)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 20 (Tech World)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 21 (Pax Prime 2014 Map)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 22 (Pax East 2014 Map)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 23 (Pax Challenge Pack 2013)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 24 (Feed The Beast Retro SSP)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 25 (Feed The Beast Retro SMP)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 26 (Slow's Stream Pack)
+[19:01:08] [INFO] AbstractModPackPane$3.run:154: Adding FTB Pack: 27 (Feed The Beast Beta Pack A)
+[19:01:09] [INFO] ModpackLoader.run:70: Loading modpack information for thirdparty.xml...
+[19:01:10] [DEBUG] ModpackLoader.run:139: All packlists loaded
+[19:01:10] [DEBUG] Benchmark.logBenchAs:71: Modpack Loader Init took 6630 ms.
+[19:01:10] [INFO] MapLoader.run:46: loading map information...
+[19:01:10] [INFO] TexturePackLoader.run:46: loading texture pack information...
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 1 (Crash Landing)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 2 (Agrarian Skies: Hardcore Quest)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 3 (Material Energy^3)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 4 (Test Pack Please Ignore)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 5 (Running Red)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 6 (EPiCCRAFT)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 7 (BloodNBones)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 8 (Magic Farm 2:Adventures in Technology)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 9 (Vanilla Minecraft)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 10 (Lapito's Galacticraft Modpack)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 11 (Infamy - Dynamic Warfare)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 12 (Voxel)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 13 (New World Mod Pack)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 14 (RPG Immersion Pack)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 15 (BronyModPack)
+[19:01:10] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 16 (Ampz Modpack)
+[19:01:11] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 17 (VoxelModPack)
+[19:01:11] [INFO] AbstractModPackPane$3.run:154: Adding Third Party Pack: 18 (Magic Farm)
+[19:01:11] [DEBUG] Benchmark.logBenchAs:71: MapLoader run  took 608 ms.
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 1 (Agrarian Skies Default Map)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 2 (Agrarian Skies Flat Map)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 3 (Agrarian Skies Server Map)
+[19:01:11] [DEBUG] Benchmark.logBenchAs:71: Texture Pack Load  took 982 ms.
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 4 (Direwolf20 Map Ep.0)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 5 (FTB Pax Challenge)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 6 (Direwolf20 Map Ep.0)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 7 (Direwolf20 Map Ep.10)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 8 (Direwolf20 Map Ep.20)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 9 (Direwolf20 Map Ep.30)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 10 (Direwolf20 Map Ep.40)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 11 (Direwolf20 Map Ep.50)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 12 (Direwolf20 Map Ep.80)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 13 (FTB Normal)
+[19:01:11] [INFO] MapUtils$6.run:266: Adding map 14 (FTB Insanity)
+[19:01:11] [DEBUG] Benchmark.logBenchAs:71: Launcher Startup took 22254 ms.
+[19:01:11] [INFO] TexturepackPane$6.run:257: Adding texture pack 1 (Soartex Fanver)
+[19:01:11] [INFO] TexturepackPane$6.run:257: Adding texture pack 2 (Jadedcat Mixpack)
+[19:01:12] [INFO] TexturepackPane$6.run:257: Adding texture pack 3 (Invictus)
+[19:01:12] [INFO] TexturepackPane$6.run:257: Adding texture pack 4 (Faithful)
+[19:01:12] [INFO] TexturepackPane$6.run:257: Adding texture pack 5 (JohnSmith Technicians Remix)
+[19:01:12] [INFO] TexturepackPane$6.run:257: Adding texture pack 6 (Familiar yet Different)
+[19:01:12] [INFO] TexturepackPane$6.run:257: Adding texture pack 7 (Love And Tolerance)
+[19:01:12] [DEBUG] Benchmark.logBenchAs:71: Launcher Startup took 22769 ms.
+[19:01:14] [INFO] LaunchFrame.doLogin:719: Logging in...
+[19:01:14] [INFO] AuthlibHelper.authenticateWithAuthlib:60: Beginning authlib authentication attempt
+[19:01:14] [INFO] AuthlibHelper.authenticateWithAuthlib:61: successfully created YggdrasilAuthenticationService
+[19:01:14] [DEBUG] AuthlibHelper.authenticateWithAuthlib:76: mojangData is null or empty
+[19:01:15] [DEBUG] AuthlibHelper.authenticateWithAuthlib:120: Authentication is valid 
+[19:01:15] [DEBUG] AuthlibHelper.authenticateWithAuthlib:123: loggedIn() && CanPlayOnline()
+[19:01:15] [DEBUG] AuthlibHelper.authenticateWithAuthlib:127: Authentication done, returning LoginResponse
+[19:01:15] [DEBUG] Benchmark.logBenchAs:71: Login Worker Run took 967 ms.
+[19:01:15] [DEBUG] LaunchFrame$15.done:761: responseStr: good
+[19:01:15] [INFO] LaunchFrame$15.done:764: Login complete.
+[19:01:15] [DEBUG] User.writeObject:168: starting...
+[19:01:15] [DEBUG] LaunchFrame$15.done:768: user data saved
+[19:01:15] [DEBUG] LaunchFrame.runGameUpdater:812: ForceUpdate: false
+[19:01:15] [DEBUG] LaunchFrame.runGameUpdater:813: installPath: C:\Users\M.Jose\Desktop\Juegos\Agrarian\FTB
+[19:01:15] [DEBUG] LaunchFrame.runGameUpdater:814: pack dir: AgrarianSkiesHQ
+[19:01:15] [DEBUG] LaunchFrame.runGameUpdater:815: pack check path: AgrarianSkiesHQ\version
+[19:01:15] [INFO] MCInstaller.gatherAssets:116: Checking local assets file, for MC version1.6.4 Please wait! 
+[19:01:15] [DEBUG] MCInstaller.gatherAssets:133: Checking minecraft.jar
+[19:01:16] [DEBUG] MCInstaller.gatherAssets:146: checking minecraft libraries
+[19:01:16] [DEBUG] MCInstaller.gatherAssets:167: Checking pack libararies
+[19:01:16] [DEBUG] MCInstaller.gatherAssets:230: Checking minecraft assets
+[19:01:20] [DEBUG] MCInstaller.gatherAssets:245: Starting TaskHandler to check MC assets
+[19:01:31] [DEBUG] Benchmark.logBenchAs:71: parallel asset check took 11576 ms.
+[19:01:31] [INFO] MCInstaller.launchMinecraft:293: Setting up native libraries for Agrarian Skies: Hardcore Quest v Recommended Version MC 1.6.4
+[19:01:32] [INFO] MCLauncher.syncAssets:257: Syncing Assets:
+[19:01:49] [DEBUG] Benchmark.logBenchAs:71: parallel asset(virtual) check took 15742 ms.
+[19:01:49] [INFO] MCLauncher.launchMinecraft:80: Java Path: C:\Program Files\Java\jre7\bin\javaw.exe
+[19:01:49] [INFO] MCLauncher.launchMinecraft:81: Pack: Agrarian Skies: Hardcore Quest 1.6.4
+[19:01:49] [INFO] MCLauncher.setMemory:240: Setting MinMemory to 256
+[19:01:49] [INFO] MCLauncher.setMemory:242: Setting MaxMemory to 1536
+[19:01:49] [INFO] MCLauncher.launchMinecraft:103: Defaulting PermSize to 256m
+[19:01:51] [DEBUG] Benchmark.logBenchAs:71: UnreadNews Init took 281 ms.
